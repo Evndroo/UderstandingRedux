@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    height: 100vh;
+    max-width: 100%;
+    margin:0;
+}
+
+#counter{
+    margin: auto;
+    text-align: center;
+    font-size: 80px;
+    align-self: center;
+}
+
+.title{
+    position: absolute;
+    width: 100%;
+    top:2rem;
+    font-size: 60px;
+    text-align: center;
+}
